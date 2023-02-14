@@ -1,0 +1,21 @@
+nav {text-align: center; font-family: broadway; }
+NAV UL {list-style: none;}
+NAV A:link {color: #FFFFFF; text-decoration: none;}
+NAV A:visited { color: #EBDEF0; text-decoration: none;}
+NAV LI {display: inline; padding: 15px; }
+body {background-color: #000000; }
+.pic {width: 40%; height: auto; margin-left: auto; margin-right: auto; margin-top: 50px; border-radius: 8px;}
+p {color: #FFFFFF; text-align: center;}
+main hr {width: 50%; }
+.portrait {Height: 400px; width: auto; margin-left: auto; margin-right: auto; border-radius: 8px; margin-top: 50px; }
+.rub {height: 400px; width: auto; margin-right: auto; margin-left: auto; border-radius: 8px; margin-top: 50px; }
+P A:Link {color: #FFFFFF; text-decoration: none; }
+P A:visited { color: #EBDEF0; text-decoration: none;}
+.int {Height: 400px; width: auto; margin-left: auto; margin-right: auto; border-radius: 8px; }
+.inter {Height: 400px; width: auto; margin-left: auto; margin-right: auto; border-radius: 8px; }
+.p {Height: 300px; width: auto;  border-radius: 8px; }
+.a  {Height: 300px; width: auto; margin-top: 50px; border-radius: 8px; }
+footer {color: #FFFFFF; text-align: center; }
+footer a:link {color: #FFFFFF; }
+footer a:visited  {color: #EBDEF0;}
+.icon {height: 20px; width: auto; }

@@ -1,0 +1,11 @@
+.pic {width: 100%; height: auto; }
+nav {text-align: center; font-family: broadway; }
+NAV UL {list-style: none;}
+NAV A:link {color: #FFFFFF; text-decoration: none;}
+NAV A:visited { color: #EBDEF0; text-decoration: none;}
+NAV LI {display: inline; padding: 15px; }
+body {background-color: #000000; }
+footer {color: #FFFFFF; text-align: center; margin-top: 50px; }
+footer a:link {color: #FFFFFF; }
+footer a:visited  {color: #EBDEF0;}
+.icon {height: 20px; width: auto; }
